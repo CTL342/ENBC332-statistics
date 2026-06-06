@@ -1,0 +1,6 @@
+y <- c(10:50)
+mean(y)
+median(y)
+sum(y)
+cumsum(y)
+plot(y, cumsum(y))
